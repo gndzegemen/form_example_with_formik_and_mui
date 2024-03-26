@@ -1,8 +1,8 @@
-import {MyForm} from './MyForm.tsx'
-//import './App.css'
+import {FormikYupValidationForm} from './FormikYupValidationForm.tsx'
+import './App.css'
 
 function App() {
-  return(<MyForm/>)
+  return(<FormikYupValidationForm/>)
 }
 
 export default App
