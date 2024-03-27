@@ -1,8 +1,13 @@
-import {FormikYupValidationForm} from './FormikYupValidationForm.tsx'
-import './App.css'
+//import {FormikYupValidationForm} from './FormikYupValidationForm.tsx'
+import {BreakpointsExample} from './BreakpointsExample.tsx'
+//import './App.css'
 
 function App() {
-  return(<FormikYupValidationForm/>)
+  return(
+
+    <BreakpointsExample/>
+
+  )
 }
 
 export default App
